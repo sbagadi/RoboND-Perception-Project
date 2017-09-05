@@ -1,0 +1,2 @@
+RBF: The best parameters are {'C': 10.0, 'gamma': 0.0026101572156825331} with a score of 0.97
+Sigmoid: The best parameters are {'C': 10000000.0, 'gamma': 8.2540418526801727e-09} with a score of 0.95
