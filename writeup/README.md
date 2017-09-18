@@ -87,10 +87,10 @@ their labels.
 ![World 1 classififed](images/world1_classified.png)
 
 **Figure:** World 2 classified.
-![World 2 classififed](images/world1_classified.png)
+![World 2 classififed](images/world2_classified.png)
 
 **Figure:** World 3 classified.
-![World 3 classififed](images/world1_classified.png)
+![World 3 classififed](images/world3_classified.png)
 
 ## Conclusions
 
